@@ -1,6 +1,12 @@
 {
-    "php": {
-        "version": "8.4",
-        "extensions": ["pcntl", "gd", "bcmath"]
+    "providers": {
+        "php": {
+            "version": "8.4",
+            "extensions": [
+                "pcntl",
+                "gd",
+                "bcmath"
+            ]
+        }
     }
 }
